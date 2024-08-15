@@ -53,3 +53,12 @@ nav {color: white;}
   width: 180px;
   height: 150px;
 }
+a:visited {
+  color: whitesmoke;
+}
+a {
+  padding: 30px;
+}
+h1,p,h2 {
+  font-size: 30px;
+}

@@ -50,6 +50,8 @@ body{
 border: 4px solid black;
 }
 .Cookie{
-text-align: center;
-  
+text-align: center; 
+}
+h1,h2,li {
+  font-size: 30px;
 }
